@@ -1,11 +1,12 @@
 # numberGuesser Pseudocode
+create main
+
 create true and false constants
 creat int for answer
 create int for guess
 create int for attempts, start at 0
+create an array called userName
 
-
-print a statement asking the user for their name
 take the user's input and store it in the variable "userName"
 print a statement greeting the user by name
 print an explanation of the game
